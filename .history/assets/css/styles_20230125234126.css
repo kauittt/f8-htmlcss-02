@@ -707,12 +707,9 @@ h2 {
 }
 
 .footer-content-social-list {
-    display: flex;
-    column-gap: 18px;
 }
 
 .footer-content-social-list__item {
-    display: block;
     background: var(--bg-brown);
     color: white;
 }
@@ -767,11 +764,10 @@ h2 {
 
 .footer-copyRight {
     position: relative;
-    margin: 14px;
+    margin-top: 67px;
     font-weight: 400;
     font-size: 1.4rem;
     line-height: 1.86;
     text-align: center;
     color: var(--text-normal);
-    pointer-events: none;
 }

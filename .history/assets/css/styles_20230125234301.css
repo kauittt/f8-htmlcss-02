@@ -707,12 +707,9 @@ h2 {
 }
 
 .footer-content-social-list {
-    display: flex;
-    column-gap: 18px;
 }
 
 .footer-content-social-list__item {
-    display: block;
     background: var(--bg-brown);
     color: white;
 }
@@ -773,5 +770,4 @@ h2 {
     line-height: 1.86;
     text-align: center;
     color: var(--text-normal);
-    pointer-events: none;
 }

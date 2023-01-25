@@ -707,7 +707,6 @@ h2 {
 }
 
 .footer-content-social-list {
-    display: flex;
     column-gap: 18px;
 }
 
